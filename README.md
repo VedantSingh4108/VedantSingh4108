@@ -7,7 +7,6 @@ Welcome to my GitHub! I am a developer specializing in Al-integrated full-stack 
 I focus on deploying ML models end-to-end across web and mobile to deliver scalable, real-world Al solutions.
 
 ### 👨‍💻 About Me
-* 🎓 Currently maintaining a 9.14 CGPA at VIT Chennai.
 * 🚀 **What I'm building:** I'm currently developing Cronos AI (a personalized voice assistant) and a Rockfall Prediction System using Flask and Random Forest.
 * 💡 **What I'm interested in:** Building scalable AI, full-stack Web Dev (MERN/Next.js), and diving deep into data structures and algorithms. 
 * ⚡ **Outside of tech:** You can catch me hitting the gym, making music, rooting for Arsenal, or queuing up for a Valorant match with my buddy Niket!
